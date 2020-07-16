@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a73fd61-749b-49c3-b9ec-2bf4715a42d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e0V06R1fHUBewLSdRVQ13jxcLW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\ResponsiveWebsites\The Rosa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.main.js (1)">
+    <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/main.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/the-rosa-master/the-rosa/main.js" working-dir="$PROJECT_DIR$/the-rosa-master/the-rosa">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js (1)" />
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a73fd61-749b-49c3-b9ec-2bf4715a42d4" name="Default Changelist" comment="" />
+      <created>1593458270079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593458270079</updated>
+      <workItem from="1593458271325" duration="11593000" />
+      <workItem from="1593534004602" duration="7793000" />
+      <workItem from="1593547191969" duration="1882000" />
+      <workItem from="1593555420079" duration="11000" />
+      <workItem from="1593609337112" duration="4859000" />
+      <workItem from="1593679165528" duration="37000" />
+      <workItem from="1593681066913" duration="658000" />
+      <workItem from="1593806208160" duration="22000" />
+      <workItem from="1594639853734" duration="1509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="210" key="EditFileWatcherDialog" timestamp="1593458402148">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="405" y="210" key="EditFileWatcherDialog/0.0.1536.864@0.0.1536.864" timestamp="1593458402148" />
+    <state x="548" y="187" key="FileChooserDialogImpl" timestamp="1593545181062">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1593545181062" />
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom" timestamp="1593469882331">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593469882331" />
+    <state width="1493" height="151" key="GridCell.Tab.0.center" timestamp="1593469882331">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1593469882331" />
+    <state width="1493" height="151" key="GridCell.Tab.0.left" timestamp="1593469882331">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1593469882331" />
+    <state width="1493" height="151" key="GridCell.Tab.0.right" timestamp="1593469882331">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1593469882331" />
+    <state width="724" height="276" key="GridCell.Tab.1.bottom" timestamp="1593469882323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593469882323" />
+    <state width="724" height="276" key="GridCell.Tab.1.center" timestamp="1593469882323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1593469882323" />
+    <state width="724" height="276" key="GridCell.Tab.1.left" timestamp="1593469882323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1593469882323" />
+    <state width="724" height="276" key="GridCell.Tab.1.right" timestamp="1593469882323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1593469882323" />
+    <state width="724" height="276" key="GridCell.Tab.2.bottom" timestamp="1593469882324">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593469882324" />
+    <state width="724" height="276" key="GridCell.Tab.2.center" timestamp="1593469882324">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1593469882324" />
+    <state width="724" height="276" key="GridCell.Tab.2.left" timestamp="1593469882323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1593469882323" />
+    <state width="724" height="276" key="GridCell.Tab.2.right" timestamp="1593469882324">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1593469882324" />
+    <state width="724" height="276" key="GridCell.Tab.3.bottom" timestamp="1593469882324">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593469882324" />
+    <state width="724" height="276" key="GridCell.Tab.3.center" timestamp="1593469882324">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1593469882324" />
+    <state width="724" height="276" key="GridCell.Tab.3.left" timestamp="1593469882324">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1593469882324" />
+    <state width="724" height="276" key="GridCell.Tab.3.right" timestamp="1593469882324">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="276" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1593469882324" />
+  </component>
+</project>
